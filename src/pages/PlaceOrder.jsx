@@ -1,11 +1,11 @@
 import React from "react";
 
-const Login = () => {
+const PlaceOrder = () => {
   return (
     <div>
-      <h1>Welcome to Login</h1>
+      <h1>Welcome to PlacerOrder</h1>
     </div>
   );
 };
 
-export default Login;
+export default PlaceOrder;
